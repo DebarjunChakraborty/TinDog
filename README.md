@@ -11,4 +11,5 @@ Responsive Design: The website is designed to be responsive and looks great on b
 
 # Technologies Used
 HTML: The structure of the web pages.
+
 CSS: The styling of the web pages.
